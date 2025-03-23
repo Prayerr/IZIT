@@ -1,0 +1,10 @@
+A:\Work\Study\IZIT\Project 4\Zyuz-Student\Zyuz-Student\obj\Debug\Zyuz-Student.csproj.AssemblyReference.cache
+A:\Work\Study\IZIT\Project 4\Zyuz-Student\Zyuz-Student\obj\Debug\Zyuz_Student.Properties.Resources.resources
+A:\Work\Study\IZIT\Project 4\Zyuz-Student\Zyuz-Student\obj\Debug\Zyuz-Student.csproj.GenerateResource.cache
+A:\Work\Study\IZIT\Project 4\Zyuz-Student\Zyuz-Student\obj\Debug\Zyuz-Student.csproj.CoreCompileInputs.cache
+A:\Work\Study\IZIT\Project 4\Zyuz-Student\Zyuz-Student\obj\Debug\Zyuz_Student.Form1.resources
+A:\Work\Study\IZIT\Project 4\Zyuz-Student\Zyuz-Student\bin\Debug\Zyuz-Student.exe.config
+A:\Work\Study\IZIT\Project 4\Zyuz-Student\Zyuz-Student\bin\Debug\Zyuz-Student.exe
+A:\Work\Study\IZIT\Project 4\Zyuz-Student\Zyuz-Student\bin\Debug\Zyuz-Student.pdb
+A:\Work\Study\IZIT\Project 4\Zyuz-Student\Zyuz-Student\obj\Debug\Zyuz-Student.exe
+A:\Work\Study\IZIT\Project 4\Zyuz-Student\Zyuz-Student\obj\Debug\Zyuz-Student.pdb
